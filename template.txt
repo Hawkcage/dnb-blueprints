@@ -1,15 +1,15 @@
-#########
-Metadata
-#########
+###############
+M E T A D A T A
+###############
 
 Title:
 Release year:
 Author:
 Description:
 
-#########
-Blueprint
-#########
+#################
+B L U E P R I N T
+#################
 
 Segment 1 [0-8 Bars]
 Segment 2 [8-16 Bars]
@@ -21,4 +21,5 @@ Segment 7 [48- 56 Bars]
 Segment 8 [56-64 Bars]
 Segment 9 [64-72 Bars]
 Segment 10 [72-80 Bars]
+
 
