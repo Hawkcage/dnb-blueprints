@@ -1,0 +1,24 @@
+#########
+Metadata
+#########
+
+Title:
+Release year:
+Author:
+Description:
+
+#########
+Blueprint
+#########
+
+Segment 1 [0-8 Bars]
+Segment 2 [8-16 Bars]
+Segment 3 [16-24 Bars]
+Segment 4 [24-32 Bars]
+Segment 5 [32-40 Bars]
+Segment 6 [40-48 Bars]
+Segment 7 [48- 56 Bars]
+Segment 8 [56-64 Bars]
+Segment 9 [64-72 Bars]
+Segment 10 [72-80 Bars]
+
